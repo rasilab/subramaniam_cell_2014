@@ -13,3 +13,7 @@ The four IPython Notebooks in this folder are:
 0. [simulation.ipynb](simulation.ipynb) — *E. coli* whole-cell translation simulation
 0. [simulation_data_analysis.ipynb](simulation_data_analysis.ipynb) — Analysis of simulation results. Simulation results can be downloaded from [Data Dryad](http://datadryad.org/resource/doi:10.5061/dryad.ch352)
 0. [yeast_simulation_and_analysis.ipynb](yeast_simulation_and_analysis.ipynb) — Modifications to simulation in [Shah et al](http://www.ncbi.nlm.nih.gov/pubmed/23791185) and analysis of simulation results. Simulation results can be downloaded from [Data Dryad](http://datadryad.org/resource/doi:10.5061/dryad.ch352) 
+
+### Note
+
+* The hyperlinks in the table of contents of each IPython notebook do not seem to be working on github. But they are functional once downloaded locally.
