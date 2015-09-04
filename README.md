@@ -1,5 +1,5 @@
 Code for Reproducing Analyses and Figures
-=========================================
+-----------------------------------------
 
 **Reference**
 
