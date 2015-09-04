@@ -7,7 +7,7 @@ Code for Reproducing Analyses and Figures
 
 Subramaniam AR, Zid B, O’Shea EK. Cell, 159, 1200, 2014
 
-The four IPython Notebooks in this folder are:
+The four [IPython Notebooks](http://ipython.org/notebook.html) in this folder are:
 
 0. [sequencing_data_analysis.ipynb](sequencing_data_analysis.ipynb) — Analysis of high-throughput sequencing data from ribosome profiling and RNA-Seq
 0. [simulation.ipynb](simulation.ipynb) — *E. coli* whole-cell translation simulation
