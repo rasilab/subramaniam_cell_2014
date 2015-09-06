@@ -17,3 +17,5 @@ The four [IPython Notebooks](http://ipython.org/notebook.html) in this folder ar
 ### Note
 
 * The hyperlinks in the table of contents of each IPython notebook do not seem to be working on github. But they are functional once downloaded locally.
+
+* The source code is licensed under [GNU GPLv3](http://www.gnu.org/licenses/gpl-3.0.en.html) license.
